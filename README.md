@@ -12,5 +12,6 @@ if x is neither defined or undefined in nodes n1, …, nm
 3. Search any use (c-use \ p-use), if the row after 1 statement at least, we add to the dictionary
 
 Tests:
-1. Input of 1 variable - complete path
-2. Input of some variables - loop path
+1. Input 1 variable - complete path with c-use
+2. Input some variables - loop path with p-use
+3. Input some variables - complete path with c-use and p-use
