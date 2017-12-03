@@ -10,3 +10,6 @@ if x is neither defined or undefined in nodes n1, …, nm
   2.1 if doesnt exist - add to the type in dictionary
   2.2 if exists - not added
 3. Search any use (c-use \ p-use), if the row after 1 statement at least, we add to the dictionary
+
+Tests:
+1. 
